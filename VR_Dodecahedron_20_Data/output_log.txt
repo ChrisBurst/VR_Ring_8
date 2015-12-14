@@ -1,0 +1,119 @@
+Initialize engine version: 4.6.8f1 (583461196f73)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 Ti BOOST (ID=0x11c2)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\OculusProjects\VR_Ring_8\VR_Dodecahedron_20_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\OculusProjects\VR_Ring_8\VR_Dodecahedron_20_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\OculusProjects\VR_Ring_8\VR_Dodecahedron_20_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\OculusProjects\VR_Ring_8\VR_Dodecahedron_20_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\OculusProjects\VR_Ring_8\VR_Dodecahedron_20_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\OculusProjects\VR_Ring_8\VR_Dodecahedron_20_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\OculusProjects\VR_Ring_8\VR_Dodecahedron_20_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\OculusProjects\VR_Ring_8\VR_Dodecahedron_20_Data\Managed\System.dll (this message is harmless)
+Unity v4.6.8f1, Oculus Integration v0.1.1.0, OVRPlugin v0.1.1.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [CAPI] LibOVR module is located at C:\Windows\system32\LibOVRRT32_0_6.dll
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for SetInitialState : x1: C2S=28.6717, S2C=23.698, Runtime=44.4704 (microseconds) C2Ssize=80, S2Csize=81 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for IsLatencyTesterAvailable : x1: C2S=20.4798, S2C=40.0818, Runtime=0.877704 (microseconds) C2Ssize=33, S2Csize=18 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for Hmd_Create : x1: C2S=19.6021, S2C=20.4798, Runtime=17.2615 (microseconds) C2Ssize=19, S2Csize=171 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for Hmd_GetHmdInfo : x1: C2S=4.97366, S2C=38.9116, Runtime=3.51082 (microseconds) C2Ssize=23, S2Csize=803 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for SetNumberValue : x1: C2S=5.55879, S2C=4.09595, Runtime=2.92568 (microseconds) C2Ssize=55, S2Csize=25 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for SetNumberValues : x1: C2S=5.85136, S2C=4.97366, Runtime=1.75541 (microseconds) C2Ssize=81, S2Csize=25 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for Hmd_SetEnabledCaps : x1: C2S=5.26623, S2C=18.1392, Runtime=81.0414 (microseconds) C2Ssize=35, S2Csize=33 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for Hmd_ConfigureTracking : x1: C2S=13.7507, S2C=2.63311, Runtime=27.5014 (microseconds) C2Ssize=46, S2Csize=25 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for GetNumberValues : x1: C2S=33.3528, S2C=23.4055, Runtime=19.0169 (microseconds) C2Ssize=49, S2Csize=57 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for SetIntValue : x1: C2S=46.8109, S2C=11.9953, Runtime=12.2879 (microseconds) C2Ssize=47, S2Csize=25 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for Compositor_Create : x1: C2S=36.571, S2C=17.2615, Runtime=1.94663e+006 (microseconds) C2Ssize=100, S2Csize=52 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for Compositor_TextureSet_Create : x1: C2S=41.2521, S2C=3.21825, Runtime=741.66 (microseconds) C2Ssize=69, S2Csize=33 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for Compositor_EndFrame : x1: C2S=20.4798, S2C=16.969, Runtime=40334.6 (microseconds) C2Ssize=995, S2Csize=89 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.165591 ms
+Unity v4.6.8f1, Oculus Integration v0.1.1.0, OVRPlugin v0.1.1.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for Compositor_EndFrame : x579: C2S=47.6249, S2C=28.464, Runtime=106.883 (microseconds) C2Ssize=995, S2Csize=89 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for Compositor_EndFrame : x601: C2S=51.0305, S2C=24.3163, Runtime=105.445 (microseconds) C2Ssize=995, S2Csize=89 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for Compositor_EndFrame : x601: C2S=44.1072, S2C=25.1394, Runtime=106.872 (microseconds) C2Ssize=995, S2Csize=89 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[OVR] [IPC] Call Stats for Compositor_EndFrame : x601: C2S=49.2172, S2C=21.8793, Runtime=105.971 (microseconds) C2Ssize=995, S2Csize=89 (bytes)
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
